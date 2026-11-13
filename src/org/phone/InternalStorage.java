@@ -3,7 +3,7 @@ package org.phone;
 public class InternalStorage{
 
     public void processorName(){
-        System.out.printout("Processor Name: Example Octo-Core Processor");
+        System.out.println("Processor Name: Example Octo-Core Processor");
     }
 
     public void ramSize(){
