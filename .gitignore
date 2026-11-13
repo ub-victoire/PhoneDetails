@@ -1,0 +1,12 @@
+# Java bytecode and build output
+*.class
+out/
+bin/
+target/
+
+# Editor backups used in these exercises
+*~
+*.java.save
+
+# Logs
+*.log
